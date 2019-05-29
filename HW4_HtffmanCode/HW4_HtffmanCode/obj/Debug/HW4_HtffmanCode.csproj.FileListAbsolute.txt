@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\HW4_HtffmanCode\HW4_HtffmanCode\bin\Debug\HW4_HtffmanCode.exe.config
+c:\users\user\documents\visual studio 2015\Projects\HW4_HtffmanCode\HW4_HtffmanCode\bin\Debug\HW4_HtffmanCode.exe
+c:\users\user\documents\visual studio 2015\Projects\HW4_HtffmanCode\HW4_HtffmanCode\bin\Debug\HW4_HtffmanCode.pdb
+c:\users\user\documents\visual studio 2015\Projects\HW4_HtffmanCode\HW4_HtffmanCode\obj\Debug\HW4_HtffmanCode.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\HW4_HtffmanCode\HW4_HtffmanCode\obj\Debug\HW4_HtffmanCode.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\HW4_HtffmanCode\HW4_HtffmanCode\obj\Debug\HW4_HtffmanCode.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\HW4_HtffmanCode\HW4_HtffmanCode\obj\Debug\HW4_HtffmanCode.exe
+c:\users\user\documents\visual studio 2015\Projects\HW4_HtffmanCode\HW4_HtffmanCode\obj\Debug\HW4_HtffmanCode.pdb
+c:\users\user\documents\visual studio 2015\Projects\HW4_HtffmanCode\HW4_HtffmanCode\obj\Debug\HW4_HtffmanCode.Form1.resources
